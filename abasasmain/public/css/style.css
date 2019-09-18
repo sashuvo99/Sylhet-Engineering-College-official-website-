@@ -1,0 +1,302 @@
+.primarybg {
+
+    background-color: #004890;
+    color: #ffffff;
+
+}
+
+.reversebg {
+    color: #000;
+    background-color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.nav {
+    font-size: 16px;
+
+}
+
+#navtop {
+    padding: 0px;
+    padding-left: 150px;
+
+}
+
+#contactnav {
+    padding-right: 50px;
+}
+
+.navbar {
+    height: 55px;
+}
+
+#mainNav {
+
+    font-size: 16px;
+}
+
+.navbar-brand {
+    display: none;
+}
+
+.nav-item {
+
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.nav-link {
+    color: #000;
+}
+
+.megamenu {
+    width: 600px;
+}
+
+.logoimagebig {
+    max-width: 220px;
+    transition: all .3s ease-in-out;
+    position: absolute;
+    left: 45%;
+    top: -50px;
+    width: 150px;
+    height: 150px;
+}
+
+.logoimagescorlled {
+
+    position: absolute;
+    left: 45%;
+    top: -30px;
+    max-width: 125px;
+    transition: all .3s ease-in-out;
+    height: 90px;
+    width: 90px;
+    top: 0;
+
+}
+
+.navlink {
+    padding-left: 0px;
+    margin: 0px;
+}
+
+
+
+
+.sliderimageheight {
+    height: 450px;
+    width: 100vw;
+}
+
+
+@media screen and (max-width: 990px) {
+    #logoimageid {
+        display: none;
+    }
+
+    #navtop {
+        padding-left: 10px;
+    }
+
+    .navbar-brand {
+        display: inline;
+    }
+
+    #contactnav {
+        display: none;
+    }
+
+    .megamenu {
+        width: 350px;
+    }
+
+}
+
+
+
+.principalMsg {
+    padding: 60px;
+}
+
+.principalImgSection {
+    top: -2rem;
+    vertical-align: middle;
+    align-content: center;
+
+}
+
+.principalMsgTitle {
+    font-weight: 500;
+
+}
+
+.principalImg {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+
+
+.principalMsgBody {
+    text-align: justify;
+}
+
+.principalMsgBodyreadMoreBtn {
+    align-content: flex-end;
+
+
+}
+
+
+
+
+
+/*         departments   */
+
+.departmentsection {
+    background-image: url("../img/bgdept.jpg");
+    padding: 60px;
+    padding-top: 20px;
+    padding-bottom: 200px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+}
+
+
+
+
+
+
+
+.wrapper {
+    position: relative;
+    perspective: 40em;
+    display: grid;
+    transform-style: preserve-3d;
+}
+
+#departmentid>.wrapper>.card {
+    grid-area: 1 / 1;
+    height: 150px;
+    width: 300px;
+    transform: translateX(10px) rotateY(25deg) rotateX(10deg);
+    background: #b1040e;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    color: #000;
+    text-transform: uppercase;
+    font-size: 60px;
+    font-weight: 900;
+    backface-visibility: hidden;
+    box-shadow: 0 10px 30px -3px rgba(0, 0, 0, .1);
+}
+
+h1 {
+    font-size: 100%;
+}
+
+#departmentid>.wrapper>.card .enclosed {
+    background: #000;
+    line-height: 1;
+    color: rgba(249, 198, 26, 1);
+    padding: 0 5px;
+    display: inline-block;
+    transform: translate(-1px, 1px) scale(0.75);
+    transform-origin: right center;
+    margin: 0;
+}
+
+#departmentid>.wrapper:before {
+    --bw: 9px;
+    grid-area: 1 / 1;
+    content: '';
+    backface-visibility: hidden;
+    height: 100%;
+    width: 100%;
+    margin-top: calc(-1 * var(--bw));
+    margin-left: calc(-1 * var(--bw));
+    background: transparent;
+    transform: translateX(-60px) rotateY(-30deg) rotateX(15deg) scale(1.03);
+    pointer-events: none;
+    border: var(--bw) solid #000;
+    box-sizing: content-box;
+}
+
+
+#departmentid>.wrapper:hover>div,
+#departmentid>.wrapper:hover:before {
+    transform: none;
+}
+
+
+#departmentid>.wrapper>div,
+#departmentid>.wrapper:before {
+    will-change: transform;
+    transition: .3s transform cubic-bezier(.25, .46, .45, 1);
+}
+
+
+
+
+
+
+
+/*end departments*/
+
+.noticecampusarea {
+    padding: 30px;
+    ;
+
+
+}
+
+.campuslife {
+    top: -7rem;
+
+    padding-left: 30px;
+}
+
+.campuslife>.card {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .12), 0 1px 2px rgba(0, 0, 0, .24);
+
+
+}
+
+.campuslife>.card-body {
+    top: -4rem;
+
+}
+
+.noticesection {}
+
+ul {
+    list-style: none;
+}
+
+.date {
+    width: 60px;
+    height: 60px;
+    vertical-align: top;
+    box-sizing: border-box;
+    background: #000;
+
+}
