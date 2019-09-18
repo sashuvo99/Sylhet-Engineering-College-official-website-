@@ -17,7 +17,7 @@
     <ul class="nav ml-auto" id="contactnav">
 
 
-        <li class="nav-item">
+{{--        <li class="nav-item">
             <a class="nav-link waves-effect waves-light">
                 <i class="fa fa-phone"></i> 01732914039 (9AM - 5PM)
             </a>
@@ -28,7 +28,7 @@
             <a class="nav-link waves-effect waves-light">
                 <i class="fa  fa-envelope ">info@sec.ac.bd</i>
             </a>
-        </li>
+        </li>--}}
 
 
     </ul>
@@ -165,8 +165,6 @@
                                             <li><a href="#" style=" padding: 0px; margin: 0px; "> EEE Society </a></li>
                                             <li><a href="#" style=" padding: 0px; margin: 0px; "> CE Society </a></li>
                                             <li><a href="#" style=" padding: 0px; margin: 0px; "> Programmer's Club </a></li>
-                                            <li><a href="#" style=" padding: 0px; margin: 0px; "> Robotic's Club </a></li>
-                                            <li><a href="#" style=" padding: 0px; margin: 0px; "> Math Club </a></li>
                                         </ul>
                                     </div>
 

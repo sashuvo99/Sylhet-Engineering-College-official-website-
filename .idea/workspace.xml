@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd7b59a2-ff90-4c00-9473-616e21a1b1a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/abasasmain/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/abasasmain/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abasasmain/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/abasasmain/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abasasmain/resources/views/layout/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/abasasmain/resources/views/layout/main.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abasasmain/resources/views/layout/navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/abasasmain/resources/views/layout/navbar.blade.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/abasasmain/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abasasmain/public/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="358" lean-forward="true" selection-start-line="358" selection-end-line="358" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abasasmain/resources/views/layout/main.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="107" column="5" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/abasasmain/resources/views/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="315" selection-start-line="315" selection-end-line="315" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/abasasmain/resources/views/layout/navbar.blade.php" />
+        <option value="$PROJECT_DIR$/abasasmain/public/css/style.css" />
+        <option value="$PROJECT_DIR$/abasasmain/resources/views/layout/main.blade.php" />
+        <option value="$PROJECT_DIR$/abasasmain/resources/views/index.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/abasasmain/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/composer" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/abasasmain/vendor/sebastian/version" />
+    </include_path>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/abasas-laravel-project.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/php.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-44" />
+    <option name="y" value="79" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="abasas-laravel-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abasas-laravel-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abasas-laravel-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abasas-laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="abasasmain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abasas-laravel-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abasas-laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="abasasmain" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abasas-laravel-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abasas-laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="abasasmain" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abasas-laravel-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abasas-laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="abasasmain" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abasas-laravel-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abasas-laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="abasasmain" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abasas-laravel-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abasas-laravel-project" type="462c0819:PsiDirectoryNode" />
+              <item name="abasasmain" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd7b59a2-ff90-4c00-9473-616e21a1b1a2" name="Default Changelist" comment="" />
+      <created>1568826949950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568826949950</updated>
+      <workItem from="1568826953566" duration="2627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2627000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-44" y="79" width="1346" height="728" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.30107528" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/abasasmain/resources/views/layout/navbar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="166" column="125" selection-start-line="166" selection-start-column="125" selection-end-line="166" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abasasmain/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="358" lean-forward="true" selection-start-line="358" selection-end-line="358" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abasasmain/resources/views/layout/main.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="107" column="5" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abasasmain/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="315" selection-start-line="315" selection-end-line="315" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

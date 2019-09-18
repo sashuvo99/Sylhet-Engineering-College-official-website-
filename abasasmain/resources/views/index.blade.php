@@ -204,14 +204,15 @@
 
 
 
-                
+
 
                 <li>
 
                     <div class="row">
                         <div class="date col-md-2 text-light">
-                            <div>
-                                17 <span>Sep 19</span>
+                            <div class="text-center">
+                                <div class="noticedate">17</div>
+                                <div class="noticemonth">Sep 19</div>
                             </div>
                         </div>
                         <div class="col-md-9">
@@ -219,20 +220,22 @@
                                 ৪র্থ বর্ষ ২য়, ৩য় বর্ষ ২য়, ২য় বর্ষ ১ম এবং ১ম বর্ষ ১ম সেমিস্টার ফাইনাল পরীক্ষার ফরম
                                 ফিলাপের নোটিশ
 
-                                <a class="d-flex flex-row-reverse  text-center"
-                                    href="https://www.sust.edu/about/news-and-events-detail/288">Read More</a> </p>
+                                <a class="d-flex flex-row-reverse  text-center  text-success"
+                                   href="https://www.sust.edu/about/news-and-events-detail/288">Read More</a> </p>
                         </div>
                     </div>
 
                     <hr>
                 </li>
 
+
                 <li>
 
                     <div class="row">
                         <div class="date col-md-2 text-light">
-                            <div>
-                                17 <span>Sep 19</span>
+                            <div class="text-center">
+                                <div class="noticedate">17</div>
+                                <div class="noticemonth">Sep 19</div>
                             </div>
                         </div>
                         <div class="col-md-9">
@@ -240,20 +243,22 @@
                                 ৪র্থ বর্ষ ২য়, ৩য় বর্ষ ২য়, ২য় বর্ষ ১ম এবং ১ম বর্ষ ১ম সেমিস্টার ফাইনাল পরীক্ষার ফরম
                                 ফিলাপের নোটিশ
 
-                                <a class="d-flex flex-row-reverse  text-center"
-                                    href="https://www.sust.edu/about/news-and-events-detail/288">Read More</a> </p>
+                                <a class="d-flex flex-row-reverse  text-center text-success"
+                                   href="https://www.sust.edu/about/news-and-events-detail/288">Read More</a> </p>
                         </div>
                     </div>
 
                     <hr>
                 </li>
 
+
                 <li>
 
                     <div class="row">
                         <div class="date col-md-2 text-light">
-                            <div>
-                                17 <span>Sep 19</span>
+                            <div class="text-center">
+                                <div class="noticedate">17</div>
+                                <div class="noticemonth">Sep 19</div>
                             </div>
                         </div>
                         <div class="col-md-9">
@@ -261,13 +266,14 @@
                                 ৪র্থ বর্ষ ২য়, ৩য় বর্ষ ২য়, ২য় বর্ষ ১ম এবং ১ম বর্ষ ১ম সেমিস্টার ফাইনাল পরীক্ষার ফরম
                                 ফিলাপের নোটিশ
 
-                                <a class="d-flex flex-row-reverse  text-center"
-                                    href="https://www.sust.edu/about/news-and-events-detail/288">Read More</a> </p>
+                                <a class="d-flex flex-row-reverse  text-center text-success"
+                                   href="https://www.sust.edu/about/news-and-events-detail/288">Read More</a> </p>
                         </div>
                     </div>
 
                     <hr>
                 </li>
+
 
 
 
@@ -282,6 +288,32 @@
     </div>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

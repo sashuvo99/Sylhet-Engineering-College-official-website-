@@ -296,10 +296,63 @@ ul {
 }
 
 .date {
+    border-radius: 10%;
     width: 60px;
     height: 60px;
-    vertical-align: top;
     box-sizing: border-box;
     background: #000;
+    vertical-align: middle;
 
 }
+
+.noticedate{
+
+    padding-top: 10px;
+    font-size: 200%;
+
+}
+.noticemonth{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
