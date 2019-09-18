@@ -160,12 +160,12 @@
 
 
             <!-- Card Dark -->
-            <div class="card">
+            <div class="card" style="border-top-right-radius: 4%;border-top-left-radius: 4%;">
 
 
                 <!-- Card image -->
-                <div class="view overlay">
-                    <img class="card-img-top" src="{{asset('img/campuslife.JPG')}}" alt="Card image cap">
+                <div class="view overlay" style="border-top-right-radius: 4%;border-top-left-radius: 4%;">
+                    <img class="card-img-top   " src="{{asset('img/campuslife.JPG')}}" alt="Card image cap">
                     <a>
                         <div class="mask rgba-white-slight"></div>
                     </a>
