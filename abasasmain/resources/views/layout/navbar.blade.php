@@ -91,7 +91,7 @@
 
 
                                 <div class="col  col-6 pb-3 ">
-                                    <h4 class="text-center text-light primarybg ">Faculity</h4>
+                                    <h1 class="text-center text-light primarybg p-1 ">Faculity</h1>
                                     <ul>
                                         <li><a href="#" style=" padding: 0px; margin: 0px; "> Faculity of CSE </a></li>
                                         <li><a href="#" style=" padding: 0px; margin: 0px; ">Faculity of EEE </a></li>
@@ -103,7 +103,7 @@
 
 
                                 <div class="col  col-6 pb-3 ">
-                                    <h4 class="text-center text-light primarybg ">Offices</h4>
+                                    <h1 class="text-center text-light primarybg   p-1 ">Offices</h1>
                                     <ul>
                                         <li><a href="#" style=" padding: 0px; margin: 0px; "> Principle's Office </a>
                                         </li>
@@ -116,7 +116,7 @@
 
 
                                 <div class="col  col-6 pb-3 ">
-                                    <h4 class="text-center text-light primarybg ">Profile</h4>
+                                    <h1 class="text-center text-light primarybg   p-1 ">Profile</h1>
                                     <ul>
                                         <li><a href="#" style=" padding: 0px; margin: 0px; "> Teachers </a></li>
                                         <li><a href="#" style=" padding: 0px; margin: 0px; "> staff </a></li>
@@ -125,7 +125,7 @@
 
 
                                 <div class="col  col-6 pb-3 ">
-                                    <h4 class="text-center text-light primarybg ">Others </h4>
+                                    <h1 class="text-center text-light primarybg   p-1 ">Others </h1>
                                     <ul>
                                         <li><a href="#" style=" padding: 0px; margin: 0px; "> Academic celendar </a>
                                         </li>
@@ -159,7 +159,7 @@
 
 
                                     <div class="col  col-6 pb-3 ">
-                                        <h4 class="text-center text-light primarybg ">Academic</h4>
+                                        <h1 class="text-center text-light primarybg   p-1 ">Academic</h1>
                                         <ul>
                                             <li><a href="#" style=" padding: 0px; margin: 0px; "> CSE Society </a></li>
                                             <li><a href="#" style=" padding: 0px; margin: 0px; "> EEE Society </a></li>
@@ -176,7 +176,7 @@
 
 
                                     <div class="col  col-6 pb-3 ">
-                                        <h4 class="text-center text-light primarybg ">Cultural</h4>
+                                        <h1 class="text-center text-light primarybg  p-1  ">Cultural</h1>
                                         <ul>
                                             <li><a href="#" style=" padding: 0px; margin: 0px; "> Soroborrno </a></li>
                                             <li><a href="#" style=" padding: 0px; margin: 0px; "> Pantaton </a></li>
@@ -191,7 +191,7 @@
 
 
                                     <div class="col  col-6 pb-3 ">
-                                        <h4 class="text-center text-light primarybg ">Other</h4>
+                                        <h1 class="text-center text-light primarybg   p-1 ">Other</h1>
                                         <ul>
                                             <li><a href="#" style=" padding: 0px; margin: 0px; "> Blood Bank </a></li>
 
