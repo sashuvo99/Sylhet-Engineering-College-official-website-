@@ -67,12 +67,12 @@
 
 
 
+<!--principle starts here-->
 
 
 
 
-
-<div class="conteiner">
+<div class="conteiner" style="background-color: rgb(235, 233, 231);"  >
     <div class="row principalMsg">
         <div class="col-9">
             <h2 class="principalMsgTitle text-right text-uppercase">Welcome Message from <strong>Principal</strong></h2>
@@ -98,6 +98,11 @@
 
 
 
+
+<!--principle ends here-->
+
+
+<!--department  start here-->
 
 <div class="departmentsection">
 
@@ -152,10 +157,20 @@
 
 
 
+<!--department  ends here-->
 
 
-<div class="conteiner">
+
+
+
+<!--campuslife+ Notice  start here-->
+
+
+<div class="conteiner" style="background-color: rgb(235, 233, 231);" >
     <div class="row noticecampusarea">
+
+        <!--campuslife  start here-->
+
         <div class="col-md-6 campuslife ">
 
 
@@ -191,12 +206,22 @@
             </div>
             <!-- Card Dark -->
 
-
+          
 
 
         </div>
 
-        <div class="col-md-6  noticesection ">
+
+
+
+         <!--Campuslife ends here-->
+         
+
+
+         <!--Notice board  start here-->
+
+
+          <div class="col-md-6  noticesection ">
           <h4 class="text-center">NOTICE BOARD</h4>
           
 
@@ -221,7 +246,7 @@
                                 ফিলাপের নোটিশ
 
                                 <a class="d-flex flex-row-reverse  text-center  text-success"
-                                   href="https://www.sust.edu/about/news-and-events-detail/288">Read More</a> </p>
+                                   href="https://www.sec.ac.bd/attachments/article/163/SEC%20Form%20fillup%20notice.pdf">Read More</a> </p>
                         </div>
                     </div>
 
@@ -244,7 +269,7 @@
                                 ফিলাপের নোটিশ
 
                                 <a class="d-flex flex-row-reverse  text-center text-success"
-                                   href="https://www.sust.edu/about/news-and-events-detail/288">Read More</a> </p>
+                                   href="https://www.sec.ac.bd/attachments/article/163/SEC%20Form%20fillup%20notice.pdf">Read More</a> </p>
                         </div>
                     </div>
 
@@ -267,7 +292,7 @@
                                 ফিলাপের নোটিশ
 
                                 <a class="d-flex flex-row-reverse  text-center text-success"
-                                   href="https://www.sust.edu/about/news-and-events-detail/288">Read More</a> </p>
+                                   href="https://www.sec.ac.bd/attachments/article/163/SEC%20Form%20fillup%20notice.pdf">Read More</a> </p>
                         </div>
                     </div>
 
@@ -285,13 +310,135 @@
 
         </div>
 
+
+
+
     </div>
+
+
+                <!--Notice board  ends here-->
+
+
+
+
+
+</div>
+
+
+
+<!--campuslife+ Notice  ends here-->
+
+
+<!--Events starts here-->
+
+
+
+
+
+
+<div class="row" style="background-color: rgb(235, 233, 231);">
+
+<div class="col-md-4 eventsideedit1">
+            <!-- Card -->
+            <div class="card">
+
+            <!-- Card image -->
+            <div class="view overlay">
+                <img class="card-img-top" src=" {{asset('img/cseday.jpg')}}" alt="Card image cap">
+                <a href="#!">
+                <div class="mask rgba-white-slight"></div>
+                </a>
+            </div>
+
+            <!-- Card content -->
+            <div class="card-body elegant-color white-text rounded-bottom">
+
+                <!-- Title -->
+                <!-- Text -->
+                <p class="card-text white-text mb-4">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <!-- Button -->
+                <a href="#" class="btn btn-primary ">Explore</a>
+
+            </div>
+
+            </div>
+            <!-- Card -->
+
+        </div>
+
+
+
+        <div class="col-md-4  eventsideedit2">
+            <!-- Card -->
+            <div class="card">
+
+            <!-- Card image -->
+            <div class="view overlay">
+                <img class="card-img-top" src=" {{asset('img/eeefest.jpg')}}" alt="Card image cap">
+                <a href="#!">
+                <div class="mask rgba-white-slight"></div>
+                </a>
+            </div>
+
+            <!-- Card content -->
+            <div class="card-body elegant-color white-text rounded-bottom">
+
+                <!-- Title -->
+                <!-- Text -->
+                <p class="card-text white-text mb-4">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <!-- Button -->
+                <a href="#" class="btn btn-primary">Explore</a>
+
+            </div>
+
+            </div>
+            <!-- Card -->
+
+        </div>
+
+
+
+        <div class="col-md-4  eventsideedit3">
+            <!-- Card -->
+            <div class="card">
+
+            <!-- Card image -->
+            <div class="view overlay">
+                <img class="card-img-top" src=" {{asset('img/cseday.jpg')}}" alt="Card image cap">
+                <a href="#!">
+                <div class="mask rgba-white-slight"></div>
+                </a>
+            </div>
+
+            <!-- Card content -->
+            <div class="card-body elegant-color white-text rounded-bottom">
+
+                <!-- Title -->
+                <!-- Text -->
+                <p class="card-text white-text mb-4">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <!-- Button -->
+                <a href="#" class="btn btn-primary">Explore</a>
+
+            </div>
+
+            </div>
+            <!-- Card -->
+
+        </div>
+
+
+
+
+
 
 </div>
 
 
 
 
+
+
+<!--Events ends here-->
 
 
 
