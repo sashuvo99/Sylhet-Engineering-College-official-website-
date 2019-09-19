@@ -72,7 +72,7 @@
 
 
 
-<div class="conteiner" style="background-color: rgb(235, 233, 231);"  >
+<div class="conteiner"  >
     <div class="row principalMsg">
         <div class="col-9">
             <h2 class="principalMsgTitle text-right text-uppercase">Welcome Message from <strong>Principal</strong></h2>
@@ -166,7 +166,7 @@
 <!--campuslife+ Notice  start here-->
 
 
-<div class="conteiner" style="background-color: rgb(235, 233, 231);" >
+<div class="conteiner"  >
     <div class="row noticecampusarea">
 
         <!--campuslife  start here-->
@@ -331,12 +331,15 @@
 
 <!--Events starts here-->
 
+<div class="container">
 
 
+<div class="col-12 text-center" >
+    <h3>EVENTS</h3>
+    <hr>
+</div>
 
-
-
-<div class="row" style="background-color: rgb(235, 233, 231);">
+<div class="row" >
 
 <div class="col-md-4 eventsideedit1">
             <!-- Card -->
@@ -431,11 +434,9 @@
 
 
 
+
 </div>
-
-
-
-
+</div>
 
 
 <!--Events ends here-->

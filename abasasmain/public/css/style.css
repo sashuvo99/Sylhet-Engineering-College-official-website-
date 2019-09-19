@@ -21,6 +21,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     line-height: 24px;
+    background-color: rgb(235, 233, 231);
 }
 
 .nav {
@@ -321,16 +322,14 @@ ul {
 /*events starts*/
 
 .eventsideedit1{
-    padding-left: 6rem;
-
+    
 }
 .eventsideedit2{
-    padding-left: 3rem;
-    padding-right: 3rem;
+    
 }
 .eventsideedit3{
 
-    padding-right: 6rem;
+    
 }
 
 
