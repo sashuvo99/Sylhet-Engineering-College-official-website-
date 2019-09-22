@@ -16,7 +16,7 @@ use App\Http\Controllers\NoticeController;
 Route::get('/', "index@index");
 Route::get('/notice',"NoticeController@index");
 Route::get("/event","EventController@index");
-Route::get("/event/{{id}}","EventController@show");
+Route::get("/event/{id}","EventController@show");
 
 Auth::routes();
 
