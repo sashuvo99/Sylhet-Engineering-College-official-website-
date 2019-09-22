@@ -4,85 +4,90 @@
 
 
       <!-- Footer Links -->
-      <div class="container text-center text-md-left mt-5" >
+      <div class="container text-center text-md-left mt-5">
 
           <!-- Grid row -->
           <div class="row mt-3">
 
               <!-- Grid column -->
-              <div class="col-md-3 col-lg-3 col-xl-3 p-2 mx-auto mb-4  " >
+              <div class="col-md-6 col-lg-6 col-xl-6 p-2 mx-auto mb-4  ">
 
                   <!-- Content -->
                   <h6 class="text-uppercase font-weight-bold">About</h6>
                   <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-                  <p class="text-justify " style="margin-right :30px;"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque deleniti suscipit blanditiis
-                      architecto earum quibusdam illo atque a aliquam repellendus, harum sunt vitae fuga explicabo ex
-                      ipsa, amet, sed mollitia?</p>
+                  <p class="text-justify " style="margin-right :30px;">
 
+
+
+
+                      <span class=" font-weight-bold      " style="font-size :115%">Sylhet Engineering College (SEC)
+                      </span> established in the year 2007 under the Directorate of Technical
+                      Education and affiliated with School of Applied Sciences & Technology, <a
+                          class=" font-weight-bold       " style="font-size :115%" href="https://www.sust.edu">Shahjalal
+                          University of
+                          Science and Technology </a> , is best of its kind with a motto to produce the best in class
+                      engineers
+                      for the 21st century. As a divisional city of Bangladesh, Sylhet had no full fledged undergraduate
+                      level engineering institute. So the Government of Peoples Republic of Bangladesh has established
+                      Sylhet Engineering College.
+                      <br>
+
+                      It is expected that, Sylhet Engineering College will be upgraded to a full-fledged public
+                      university and will be named<span class=" font-weight-bold      " style="font-size :115%"> Sylhet
+                          University of Engineering and Technology (SUET)</span>.
               </div>
               <!-- Grid column -->
 
               <!-- Grid column -->
-              <div class="col-md-3 col-lg-3 col-xl-3 p-2 mx-auto mb-4 " >
+
+              <!-- Grid column -->
+
+              <!-- Grid column -->
+              <div class="col-md-3 col-lg-3 col-xl-3  mx-auto mb-4">
 
                   <!-- Links -->
-                  <h6 class="text-uppercase font-weight-bold">QUICK LINKS
-                  </h6>
+                  <h6 class="text-uppercase font-weight-bold">Quick links </h6>
                   <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
                   <p>
-                      <a href="#!">MDBootstrap</a>
+                      <a href="#!">News </a>
                   </p>
                   <p>
-                      <a href="#!">MDWordPress</a>
+                      <a href="#!">All Notices</a>
                   </p>
                   <p>
-                      <a href="#!">BrandFlow</a>
+                      <a href="#!">Events</a>
                   </p>
                   <p>
-                      <a href="#!">Bootstrap Angular</a>
+                      <a href="#!">Login</a>
+                  </p>
+                  <p>
+                      <a href="#!">Help Line</a>
                   </p>
 
               </div>
               <!-- Grid column -->
 
-              <!-- Grid column -->
-              <div class="col-md-3 col-lg-3 col-xl-3  mx-auto mb-4"  >
+              <div class="col-md-3 col-lg-3 col-xl-3  mx-auto mb-4">
 
                   <!-- Links -->
-                  <h6 class="text-uppercase font-weight-bold">Useful links</h6>
+                  <h6 class="text-uppercase font-weight-bold">GET IN TOUCH</h6>
                   <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
                   <p>
-                      <a href="#!">Your Account</a>
+                      <a href="#!">Contact Us </a>
                   </p>
                   <p>
-                      <a href="#!">Become an Affiliate</a>
+                      <a href="#!">
+                          Map & Directions</a>
                   </p>
                   <p>
-                      <a href="#!">Shipping Rates</a>
+                      <a href="#!">Facebook</a>
                   </p>
                   <p>
-                      <a href="#!">Help</a>
+                      <a href="#!">Google+</a>
                   </p>
-
-              </div>
-              <!-- Grid column -->
-
-              <div class="col-md-3 col-lg-3 col-xl-3  mx-auto mb-4"   >
-
-                  <!-- Links -->
-                  <h6 class="text-uppercase font-weight-bold">Useful links</h6>
-                  <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+      
                   <p>
-                      <a href="#!">Your Account</a>
-                  </p>
-                  <p>
-                      <a href="#!">Become an Affiliate</a>
-                  </p>
-                  <p>
-                      <a href="#!">Shipping Rates</a>
-                  </p>
-                  <p>
-                      <a href="#!">Help</a>
+                      <a href="#!">Twitter</a>
                   </p>
 
               </div>
@@ -95,8 +100,8 @@
       <!-- Footer Links -->
 
       <!-- Copyright -->
-      <div class="footer-copyright text-center py-3">© 2018 Copyright:
-          <a href="https://mdbootstrap.com/education/bootstrap/"> MDBootstrap.com</a>
+      <div class="footer-copyright text-center py-3">
+          © 2019 SEC. All rights reserved.
       </div>
       <!-- Copyright -->
 
