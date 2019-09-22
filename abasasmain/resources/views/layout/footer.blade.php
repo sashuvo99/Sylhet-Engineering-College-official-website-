@@ -48,14 +48,12 @@
                   <!-- Links -->
                   <h6 class="text-uppercase font-weight-bold">Quick links </h6>
                   <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+            
                   <p>
-                      <a href="#!">News </a>
+                      <a href="/notice">All Notices</a>
                   </p>
                   <p>
-                      <a href="#!">All Notices</a>
-                  </p>
-                  <p>
-                      <a href="#!">Events</a>
+                      <a href="/event">Events</a>
                   </p>
                   <p>
                       <a href="#!">Login</a>

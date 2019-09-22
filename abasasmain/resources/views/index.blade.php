@@ -86,7 +86,7 @@
             </div>
 
             <div class="d-flex justify-content-end">
-                <button type="button" class="btn btn-success dark btn-rounded ">Read More</button>
+                <button type="button" class="btn btn-dark btn-rounded ">Read More</button>
             </div>
         </div>
 
@@ -245,7 +245,7 @@
                                 ৪র্থ বর্ষ ২য়, ৩য় বর্ষ ২য়, ২য় বর্ষ ১ম এবং ১ম বর্ষ ১ম সেমিস্টার ফাইনাল পরীক্ষার ফরম
                                 ফিলাপের নোটিশ
 
-                                <a class="d-flex flex-row-reverse  text-center  text-success"
+                                <a class="d-flex flex-row-reverse  text-center  text-dark"
                                     href="https://www.sec.ac.bd/attachments/article/163/SEC%20Form%20fillup%20notice.pdf">Read
                                     More</a> </p>
                         </div>
@@ -255,7 +255,8 @@
                     </li>
 
                     @endfor
-                    <button type="button" class="btn btn-success dark btn-rounded d-flex right ">Read More</button>
+                    <a class="d-flex flex-row-reverse  text-center  text-success" href="/notice"><button type="button"
+                            class="btn btn-dark btn-rounded d-flex right ">View More</button></a> </p>
             </ul>
 
 
@@ -295,13 +296,18 @@
 
     <div class="row">
 
-        <div class="col-md-4 eventsideedit1">
+       
+@for ( $i=0 ;$i<=2 ; $i++)
+
+
+
+<div class="col-md-4  eventsideedit2 p-3">
             <!-- Card -->
             <div class="card">
 
                 <!-- Card image -->
                 <div class="view overlay">
-                    <img class="card-img-top" src=" {{asset('img/cseday.jpg')}}" alt="Card image cap">
+                    <img class="card-img-top" src=" {{$events[$i]->image}}" alt="Card image cap" height="252px">
                     <a href="#!">
                         <div class="mask rgba-white-slight"></div>
                     </a>
@@ -309,42 +315,15 @@
 
                 <!-- Card content -->
                 <div class="card-body elegant-color white-text rounded-bottom">
-
+                                  <!-- Title -->
                     <!-- Title -->
+                    <h4 class="card-title text-uppercase">{{$events[$i]->title}}
+                    </h4>
+                    <hr class="hr-light">
                     <!-- Text -->
-                    <p class="card-text white-text mb-4">Some quick example text to build on the card title and make up
-                        the bulk of the card's content.</p>
-                    <!-- Button -->
-                    <a href="#" class="btn btn-primary ">Explore</a>
-
-                </div>
-
-            </div>
-            <!-- Card -->
-
-        </div>
-
-
-
-        <div class="col-md-4  eventsideedit2">
-            <!-- Card -->
-            <div class="card">
-
-                <!-- Card image -->
-                <div class="view overlay">
-                    <img class="card-img-top" src=" {{asset('img/eeefest.jpg')}}" alt="Card image cap">
-                    <a href="#!">
-                        <div class="mask rgba-white-slight"></div>
-                    </a>
-                </div>
-
-                <!-- Card content -->
-                <div class="card-body elegant-color white-text rounded-bottom">
-
-                    <!-- Title -->
-                    <!-- Text -->
-                    <p class="card-text white-text mb-4">Some quick example text to build on the card title and make up
-                        the bulk of the card's content.</p>
+                    <p class="card-text white-text mb-4">
+                    {{$events[$i]->description}}
+                    </p>
                     <!-- Button -->
                     <a href="#" class="btn btn-primary">Explore</a>
 
@@ -355,36 +334,9 @@
 
         </div>
 
+        @endfor
 
 
-        <div class="col-md-4  eventsideedit3">
-            <!-- Card -->
-            <div class="card">
-
-                <!-- Card image -->
-                <div class="view overlay">
-                    <img class="card-img-top" src=" {{asset('img/cseday.jpg')}}" alt="Card image cap">
-                    <a href="#!">
-                        <div class="mask rgba-white-slight"></div>
-                    </a>
-                </div>
-
-                <!-- Card content -->
-                <div class="card-body elegant-color white-text rounded-bottom">
-
-                    <!-- Title -->
-                    <!-- Text -->
-                    <p class="card-text white-text mb-4">Some quick example text to build on the card title and make up
-                        the bulk of the card's content.</p>
-                    <!-- Button -->
-                    <a href="#" class="btn btn-primary">Explore</a>
-
-                </div>
-
-            </div>
-            <!-- Card -->
-
-        </div>
 
 
 
