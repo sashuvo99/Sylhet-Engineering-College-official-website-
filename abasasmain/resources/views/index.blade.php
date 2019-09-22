@@ -336,7 +336,7 @@
 
 <div class="col-12 text-center" >
     <h3>EVENTS</h3>
-    <hr>
+              <hr class=" black lighten-5  accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;"  >
 </div>
 
 <div class="row" >
