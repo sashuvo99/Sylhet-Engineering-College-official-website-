@@ -10,7 +10,7 @@
           <div class="row mt-3">
 
               <!-- Grid column -->
-              <div class="col-md-6 col-lg-6 col-xl-6 p-2 mx-auto mb-4  ">
+              <div class="col-md-8 col-lg-8 col-xl-8 p-2 mx-auto mb-4  ">
 
                   <!-- Content -->
                   <h6 class="text-uppercase font-weight-bold">About</h6>
@@ -43,7 +43,7 @@
               <!-- Grid column -->
 
               <!-- Grid column -->
-              <div class="col-md-3 col-lg-3 col-xl-3  mx-auto mb-4">
+              <div class="col-md-2 col-lg-2 col-xl-2  mx-auto mb-4">
 
                   <!-- Links -->
                   <h6 class="text-uppercase font-weight-bold">Quick links </h6>
@@ -67,7 +67,7 @@
               </div>
               <!-- Grid column -->
 
-              <div class="col-md-3 col-lg-3 col-xl-3  mx-auto mb-4">
+              <div class="col-md-2 col-lg-2 col-xl-2  mx-auto mb-4">
 
                   <!-- Links -->
                   <h6 class="text-uppercase font-weight-bold">GET IN TOUCH</h6>
