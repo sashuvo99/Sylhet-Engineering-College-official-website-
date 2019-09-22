@@ -11,9 +11,12 @@
 |
 */
 
+use App\Http\Controllers\NoticeController;
+
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/notice',"NoticeController@index");
 
 Auth::routes();
 

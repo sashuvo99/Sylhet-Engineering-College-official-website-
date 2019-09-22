@@ -72,7 +72,7 @@
 
 
 
-<div class="conteiner"  >
+<div class="conteiner">
     <div class="row principalMsg">
         <div class="col-9">
             <h2 class="principalMsgTitle text-right text-uppercase">Welcome Message from <strong>Principal</strong></h2>
@@ -86,7 +86,7 @@
             </div>
 
             <div class="d-flex justify-content-end">
-                <button type="button" class="btn btn-danger btn-rounded ">Read More</button>
+                <button type="button" class="btn btn-success dark btn-rounded ">Read More</button>
             </div>
         </div>
 
@@ -108,49 +108,50 @@
 
     <div class="text-center departmenttitle">
         <h1 class="text-center text-light  text-uppercase "
-            style=" padding: 40px; padding-bottom:0px ;  margin-bottom: 0px;   font-size: 22px; margin-bottom :10px;"> Departments </h1>
-      
-            <hr class=" white lighten-5  accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;  >
+            style=" padding: 40px; padding-bottom:0px ;  margin-bottom: 0px;   font-size: 22px; margin-bottom :10px;">
+            Departments </h1>
+
+        <hr class=" white lighten-5  accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;  >
             <br>
     </div>
 
-    <div class="container ">
-        <div class="row " id='departmentid'>
+    <div class=" container ">
+        <div class=" row " id='departmentid'>
 
 
-            <div class="wrapper col-md-4  justify-content-center   ">
-                <div class="card">
-                    <h1>
-                        <span class="enclosed">C</span>
-                        <span class="enclosed">S</span>
-                        <span class="enclosed">E</span>
-                    </h1>
-                </div>
-            </div>
-
-            <div class="wrapper col-md-4  justify-content-center   ">
-                <div class="card">
-                    <h1>
-                        <span class="enclosed">E</span>
-                        <span class="enclosed">E</span>
-                        <span class="enclosed">E</span>
-                    </h1>
-                </div>
-            </div>
-
-            <div class="wrapper col-md-4  justify-content-center  ">
-                <div class="card">
-                    <h1>
-                        <span class="enclosed">C</span>
-                        <span class="enclosed">E</span>
-                    </h1>
-                </div>
-            </div>
-
-
-
-        </div>
+            <div class=" wrapper col-md-4 justify-content-center ">
+                <div class=" card">
+        <h1>
+            <span class="enclosed">C</span>
+            <span class="enclosed">S</span>
+            <span class="enclosed">E</span>
+        </h1>
     </div>
+</div>
+
+<div class="wrapper col-md-4  justify-content-center   ">
+    <div class="card">
+        <h1>
+            <span class="enclosed">E</span>
+            <span class="enclosed">E</span>
+            <span class="enclosed">E</span>
+        </h1>
+    </div>
+</div>
+
+<div class="wrapper col-md-4  justify-content-center  ">
+    <div class="card">
+        <h1>
+            <span class="enclosed">C</span>
+            <span class="enclosed">E</span>
+        </h1>
+    </div>
+</div>
+
+
+
+</div>
+</div>
 
 </div>
 
@@ -166,7 +167,7 @@
 <!--campuslife+ Notice  start here-->
 
 
-<div class="conteiner"  >
+<div class="conteiner">
     <div class="row noticecampusarea">
 
         <!--campuslife  start here-->
@@ -206,7 +207,7 @@
             </div>
             <!-- Card Dark -->
 
-          
+
 
 
         </div>
@@ -214,24 +215,23 @@
 
 
 
-         <!--Campuslife ends here-->
-         
+        <!--Campuslife ends here-->
 
 
-         <!--Notice board  start here-->
+
+        <!--Notice board  start here-->
 
 
-          <div class="col-md-6  noticesection ">
-          <h4 class="text-center">NOTICE BOARD</h4>
-          
+        <div class="col-md-6  noticesection ">
+            <h4 class="text-center">NOTICE BOARD</h4>
+
 
             <ul class="border border-success p-5">
 
 
 
 
-
-                <li>
+                @for ($i =1; $i <= 3; $i++) <li>
 
                     <div class="row">
                         <div class="date col-md-2 text-light">
@@ -246,62 +246,16 @@
                                 ফিলাপের নোটিশ
 
                                 <a class="d-flex flex-row-reverse  text-center  text-success"
-                                   href="https://www.sec.ac.bd/attachments/article/163/SEC%20Form%20fillup%20notice.pdf">Read More</a> </p>
+                                    href="https://www.sec.ac.bd/attachments/article/163/SEC%20Form%20fillup%20notice.pdf">Read
+                                    More</a> </p>
                         </div>
                     </div>
 
                     <hr>
-                </li>
+                    </li>
 
-
-                <li>
-
-                    <div class="row">
-                        <div class="date col-md-2 text-light">
-                            <div class="text-center">
-                                <div class="noticedate">17</div>
-                                <div class="noticemonth">Sep 19</div>
-                            </div>
-                        </div>
-                        <div class="col-md-9">
-                            <p>
-                                ৪র্থ বর্ষ ২য়, ৩য় বর্ষ ২য়, ২য় বর্ষ ১ম এবং ১ম বর্ষ ১ম সেমিস্টার ফাইনাল পরীক্ষার ফরম
-                                ফিলাপের নোটিশ
-
-                                <a class="d-flex flex-row-reverse  text-center text-success"
-                                   href="https://www.sec.ac.bd/attachments/article/163/SEC%20Form%20fillup%20notice.pdf">Read More</a> </p>
-                        </div>
-                    </div>
-
-                    <hr>
-                </li>
-
-
-                <li>
-
-                    <div class="row">
-                        <div class="date col-md-2 text-light">
-                            <div class="text-center">
-                                <div class="noticedate">17</div>
-                                <div class="noticemonth">Sep 19</div>
-                            </div>
-                        </div>
-                        <div class="col-md-9">
-                            <p>
-                                ৪র্থ বর্ষ ২য়, ৩য় বর্ষ ২য়, ২য় বর্ষ ১ম এবং ১ম বর্ষ ১ম সেমিস্টার ফাইনাল পরীক্ষার ফরম
-                                ফিলাপের নোটিশ
-
-                                <a class="d-flex flex-row-reverse  text-center text-success"
-                                   href="https://www.sec.ac.bd/attachments/article/163/SEC%20Form%20fillup%20notice.pdf">Read More</a> </p>
-                        </div>
-                    </div>
-
-                    <hr>
-                </li>
-
-
-
-
+                    @endfor
+                    <button type="button" class="btn btn-success dark btn-rounded d-flex right ">Read More</button>
             </ul>
 
 
@@ -316,7 +270,7 @@
     </div>
 
 
-                <!--Notice board  ends here-->
+    <!--Notice board  ends here-->
 
 
 
@@ -334,35 +288,36 @@
 <div class="container">
 
 
-<div class="col-12 text-center" >
-    <h3>EVENTS</h3>
-              <hr class=" black lighten-5  accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;"  >
-</div>
+    <div class="col-12 text-center">
+        <h3>EVENTS</h3>
+        <hr class=" black lighten-5  accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+    </div>
 
-<div class="row" >
+    <div class="row">
 
-<div class="col-md-4 eventsideedit1">
+        <div class="col-md-4 eventsideedit1">
             <!-- Card -->
             <div class="card">
 
-            <!-- Card image -->
-            <div class="view overlay">
-                <img class="card-img-top" src=" {{asset('img/cseday.jpg')}}" alt="Card image cap">
-                <a href="#!">
-                <div class="mask rgba-white-slight"></div>
-                </a>
-            </div>
+                <!-- Card image -->
+                <div class="view overlay">
+                    <img class="card-img-top" src=" {{asset('img/cseday.jpg')}}" alt="Card image cap">
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                </div>
 
-            <!-- Card content -->
-            <div class="card-body elegant-color white-text rounded-bottom">
+                <!-- Card content -->
+                <div class="card-body elegant-color white-text rounded-bottom">
 
-                <!-- Title -->
-                <!-- Text -->
-                <p class="card-text white-text mb-4">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <!-- Button -->
-                <a href="#" class="btn btn-primary ">Explore</a>
+                    <!-- Title -->
+                    <!-- Text -->
+                    <p class="card-text white-text mb-4">Some quick example text to build on the card title and make up
+                        the bulk of the card's content.</p>
+                    <!-- Button -->
+                    <a href="#" class="btn btn-primary ">Explore</a>
 
-            </div>
+                </div>
 
             </div>
             <!-- Card -->
@@ -375,24 +330,25 @@
             <!-- Card -->
             <div class="card">
 
-            <!-- Card image -->
-            <div class="view overlay">
-                <img class="card-img-top" src=" {{asset('img/eeefest.jpg')}}" alt="Card image cap">
-                <a href="#!">
-                <div class="mask rgba-white-slight"></div>
-                </a>
-            </div>
+                <!-- Card image -->
+                <div class="view overlay">
+                    <img class="card-img-top" src=" {{asset('img/eeefest.jpg')}}" alt="Card image cap">
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                </div>
 
-            <!-- Card content -->
-            <div class="card-body elegant-color white-text rounded-bottom">
+                <!-- Card content -->
+                <div class="card-body elegant-color white-text rounded-bottom">
 
-                <!-- Title -->
-                <!-- Text -->
-                <p class="card-text white-text mb-4">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <!-- Button -->
-                <a href="#" class="btn btn-primary">Explore</a>
+                    <!-- Title -->
+                    <!-- Text -->
+                    <p class="card-text white-text mb-4">Some quick example text to build on the card title and make up
+                        the bulk of the card's content.</p>
+                    <!-- Button -->
+                    <a href="#" class="btn btn-primary">Explore</a>
 
-            </div>
+                </div>
 
             </div>
             <!-- Card -->
@@ -405,24 +361,25 @@
             <!-- Card -->
             <div class="card">
 
-            <!-- Card image -->
-            <div class="view overlay">
-                <img class="card-img-top" src=" {{asset('img/cseday.jpg')}}" alt="Card image cap">
-                <a href="#!">
-                <div class="mask rgba-white-slight"></div>
-                </a>
-            </div>
+                <!-- Card image -->
+                <div class="view overlay">
+                    <img class="card-img-top" src=" {{asset('img/cseday.jpg')}}" alt="Card image cap">
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                </div>
 
-            <!-- Card content -->
-            <div class="card-body elegant-color white-text rounded-bottom">
+                <!-- Card content -->
+                <div class="card-body elegant-color white-text rounded-bottom">
 
-                <!-- Title -->
-                <!-- Text -->
-                <p class="card-text white-text mb-4">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <!-- Button -->
-                <a href="#" class="btn btn-primary">Explore</a>
+                    <!-- Title -->
+                    <!-- Text -->
+                    <p class="card-text white-text mb-4">Some quick example text to build on the card title and make up
+                        the bulk of the card's content.</p>
+                    <!-- Button -->
+                    <a href="#" class="btn btn-primary">Explore</a>
 
-            </div>
+                </div>
 
             </div>
             <!-- Card -->
@@ -435,7 +392,7 @@
 
 
 
-</div>
+    </div>
 </div>
 
 
