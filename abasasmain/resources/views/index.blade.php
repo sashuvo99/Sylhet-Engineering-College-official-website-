@@ -107,11 +107,11 @@
 <div class="departmentsection">
 
     <div class="text-center departmenttitle">
-        <h1 class="text-center text-light  "
-            style=" padding: 40px; padding-bottom:0px ;  margin-bottom: 0px;   font-size: 22px;"> Departments</h1>
-        <h1 class="text-center text-light" style="margin-bottom: 10px; padding-bottom:40px;   font-size: 22px;"> ------
-        </h1>
-
+        <h1 class="text-center text-light  text-uppercase "
+            style=" padding: 40px; padding-bottom:0px ;  margin-bottom: 0px;   font-size: 22px; margin-bottom :10px;"> Departments </h1>
+      
+            <hr class=" white lighten-5  accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;  >
+            <br>
     </div>
 
     <div class="container ">
