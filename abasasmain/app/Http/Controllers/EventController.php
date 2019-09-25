@@ -5,6 +5,8 @@ namespace App\Http\Controllers;
 use App\event;
 use Illuminate\Http\Request;
 
+use Illuminate\Support\Facades\DB;
+
 class EventController extends Controller
 {
     /**
@@ -14,7 +16,9 @@ class EventController extends Controller
      */
     public function index()
     {
-        $events= event::all()->sortByDesc("id");
+        $events= event::paginate(6);
+        $events->sortByDesc("id");
+         
      
         return view("event" , compact("events"));
     }

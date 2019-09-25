@@ -43,6 +43,7 @@
 
 @endforeach
 
+{{ $notices->links() }}
 
             </ul>
 
@@ -51,7 +52,6 @@
 
 
         </div>
-
 
 
 

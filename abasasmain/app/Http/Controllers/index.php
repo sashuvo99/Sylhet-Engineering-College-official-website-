@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\event;
+use App\notice;
 
 class index extends Controller
 {
@@ -12,8 +13,7 @@ class index extends Controller
 
 
         $events= event::all()->sortByDesc("id");
-    
-
-        return view("index" , compact("events"));
+        $notices= notice::all()->sortByDesc("id");
+        return view("index" , compact("events","notices"));
     }
 }

@@ -16,18 +16,18 @@
     <div class="carousel-inner" role="listbox">
         <div class="carousel-item active">
             <div class="view">
-                <img class="d-block  sliderimageheight  " src="{{asset('img/s1.jpg')}}" alt="First slide">
-                <div class="mask rgba-black-light"></div>
+                <img class="d-block  sliderimageheight  " src="{{asset('img/slide/s1.jpg')}}" alt="First slide">
+               <!-- <div class="mask rgba-black-light"></div>-->
             </div>
             <div class="carousel-caption">
-                <h3 class="h3-responsive">Light mask</h3>
+                <h3 class="h3-responsive">শুভ নববর্ষ ১৪২৬</h3>
                 <p>First text</p>
             </div>
         </div>
         <div class="carousel-item">
             <!--Mask color-->
             <div class="view">
-                <img class="d-block  sliderimageheight " src="{{asset('img/s2.jpg')}}" alt="Second slide">
+                <img class="d-block  sliderimageheight " src="{{asset('img/slide/s2.jpg')}}" alt="Second slide">
                 <div class="mask rgba-black-light"></div>
             </div>
             <div class="carousel-caption">
@@ -38,7 +38,7 @@
         <div class="carousel-item">
             <!--Mask color-->
             <div class="view">
-                <img class="d-block  sliderimageheight  " src="{{asset('img/s3.jpg')}}" alt="Third slide">
+                <img class="d-block  sliderimageheight  " src="{{asset('img/slide/s3.jpg')}}" alt="Third slide">
                 <div class="mask rgba-black-light"></div>
             </div>
             <div class="carousel-caption">
@@ -85,8 +85,8 @@
                 repellendus, est perspiciatis veniam delectus enim esse! Animi, quidem sit.
             </div>
 
-            <div class="d-flex justify-content-end">
-                <button type="button" class="btn btn-dark btn-rounded ">Read More</button>
+            <div class="d-flex justify-content-end text-light">
+                <button type="button" class="btn unique-color-dark btn-rounded  text-light">Read More</button>
             </div>
         </div>
 
@@ -188,7 +188,7 @@
                 </div>
 
                 <!-- Card content -->
-                <div class="card-body elegant-color white-text rounded-bottom">
+                <div class="card-body unique-color-dark white-text rounded-bottom">
 
                     <!-- Title -->
                     <h4 class="card-title text-uppercase">Life at sec</h4>
@@ -231,7 +231,7 @@
 
 
 
-                @for ($i =1; $i <= 3; $i++) <li>
+                @for ($i =0; $i < 3; $i++) <li>
 
                     <div class="row">
                         <div class="date col-md-2 text-light">
@@ -242,11 +242,14 @@
                         </div>
                         <div class="col-md-9">
                             <p>
-                                ৪র্থ বর্ষ ২য়, ৩য় বর্ষ ২য়, ২য় বর্ষ ১ম এবং ১ম বর্ষ ১ম সেমিস্টার ফাইনাল পরীক্ষার ফরম
-                                ফিলাপের নোটিশ
+                            <?php 
+                        $result = mb_substr($notices[$i]->title, 0, 120);
+
+                        ?>
+                               {{$result}}
 
                                 <a class="d-flex flex-row-reverse  text-center  text-dark"
-                                    href="https://www.sec.ac.bd/attachments/article/163/SEC%20Form%20fillup%20notice.pdf">Read
+                                    href="{{$notices[$i]->link}}">Read
                                     More</a> </p>
                         </div>
                     </div>
@@ -255,8 +258,8 @@
                     </li>
 
                     @endfor
-                    <a class="d-flex flex-row-reverse  text-center  text-success" href="/notice"><button type="button"
-                            class="btn btn-dark btn-rounded d-flex right ">View More</button></a> </p>
+                    <a class="d-flex flex-row-reverse  text-center text-light " href="/notice"><button type="button"
+                            class="btn unique-color-dark btn-rounded d-flex right text-light ">View More</button></a> </p>
             </ul>
 
 
@@ -301,7 +304,7 @@
 
 
 
-<div class="col-md-4  eventsideedit2 p-3">
+<div class="col-md-4   p-3">
             <!-- Card -->
             <div class="card">
 
@@ -314,7 +317,7 @@
                 </div>
 
                 <!-- Card content -->
-                <div class="card-body elegant-color white-text rounded-bottom">
+                <div class="card-body unique-color-dark white-text rounded-bottom">
                                   <!-- Title -->
                     <!-- Title -->
                     <h4 class="card-title text-uppercase">{{$events[$i]->title}}
@@ -322,10 +325,15 @@
                     <hr class="hr-light">
                     <!-- Text -->
                     <p class="card-text white-text mb-4">
-                    {{$events[$i]->description}}
+
+                    <?php 
+                        $result = mb_substr($events[$i]->description, 0, 120);
+
+                        ?>
+                        {{$result}}{{" "}}{{".........."}}
                     </p>
                     <!-- Button -->
-                    <a href="#" class="btn btn-primary">Explore</a>
+                    <a href="{{    route('event',$events[$i]->id) }}" class="btn btn-primary">Explore</a>
 
                 </div>
 
