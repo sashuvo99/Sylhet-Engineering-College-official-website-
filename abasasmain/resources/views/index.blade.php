@@ -111,7 +111,7 @@
             style=" padding: 40px; padding-bottom:0px ;  margin-bottom: 0px;   font-size: 22px; margin-bottom :10px;">
             Departments </h1>
 
-        <hr class=" white lighten-5  accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;  >
+        <hr class=" white lighten-5  accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;  ">
             <br>
     </div>
 
