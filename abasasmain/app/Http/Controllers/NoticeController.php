@@ -14,9 +14,8 @@ class NoticeController extends Controller
      */
     public function index()
     {
-      //  $notices= notice::all()->sortByDesc('id');
 
-      $notices= notice::paginate(10);
+      $notices= notice::orderBy('id', 'desc')->paginate(6);
        
         return view("notice" , compact( 'notices' ));
 
