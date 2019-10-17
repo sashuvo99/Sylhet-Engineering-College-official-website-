@@ -105,7 +105,11 @@
                                 <div class="col  col-6 pb-3 ">
                                     <h1 class="text-center text-light primarybg   p-1 ">Offices</h1>
                                     <ul>
+<<<<<<< HEAD
                                         <li><a href="#" style=" padding: 0px; margin: 0px; "> Principal Office </a>
+=======
+                                        <li><a href="#" style=" padding: 0px; margin: 0px; "> Principle Office </a>
+>>>>>>> 3ac495309ff85c0d68c6b14e0e3015f4943b8693
                                         </li>
                                         <li><a href="#" style=" padding: 0px; margin: 0px; "> Registrar Office </a>
                                         </li>
@@ -127,7 +131,11 @@
                                 <div class="col  col-6 pb-3 ">
                                     <h1 class="text-center text-light primarybg   p-1 ">Others </h1>
                                     <ul>
+<<<<<<< HEAD
                                         <li><a href="#" style=" padding: 0px; margin: 0px; "> Academic calendar </a>
+=======
+                                        <li><a href="#" style=" padding: 0px; margin: 0px; "> Academic Calendar </a>
+>>>>>>> 3ac495309ff85c0d68c6b14e0e3015f4943b8693
                                         </li>
                                         <li><a href="#" style=" padding: 0px; margin: 0px; "> Exam Schedule </a></li>
                                     </ul>
