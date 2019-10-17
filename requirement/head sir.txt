@@ -1,0 +1,34 @@
+Teachers and staff
+--------------------
+1. name 
+2. phone 
+3. email 
+4. current post 
+5. dept 
+6. image
+7. skills and awards
+8. about (atleast 30 word)
+
+Speech
+------------------------------
+1. principal Speech
+2. Dept head Speech
+
+Logo
+-------------
+
+Office
+------------
+1.  principal office 
+2.  registrar office
+3.  exam controll
+
+*   name
+*   phone
+*   email
+*   Room/building
+
+Academic calendar
+-------------
+Exam Schedule
+--------------
